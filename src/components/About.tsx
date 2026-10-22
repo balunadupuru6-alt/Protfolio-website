@@ -81,7 +81,7 @@ export const About: React.FC = () => {
           <div className="lg:col-span-5 flex flex-col justify-between">
             <div className="relative rounded-2xl overflow-hidden border border-slate-800 bg-[#0a0f1d] group">
               <img
-                src="/src/assets/images/balu_developer_workspace_1792649971347.jpg"
+                src="/assets/images/balu_developer_workspace_1792649971347.jpg"
                 alt="Developer workspace with code editors and monitors"
                 referrerPolicy="no-referrer"
                 className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-500"

@@ -204,7 +204,7 @@ export const projectsData: ProjectItem[] = [
       "Modular Python function architecture for easy extension",
       "Clean command-line interface logic and test cases"
     ],
-    image: "/src/assets/images/project_python_calc_1792649972665.jpg",
+    image: "/assets/images/project_python_calc_1792649972665.jpg",
     githubUrl: "https://github.com/balunadupuru/python-calculator",
     codeSnippet: pythonCalculatorCode
   },
@@ -220,7 +220,7 @@ export const projectsData: ProjectItem[] = [
       "Interactive DOM manipulation experiments with JavaScript event listeners",
       "Hands-on exercises for practical front-end problem solving"
     ],
-    image: "/src/assets/images/project_web_practice_1792649971742.jpg",
+    image: "/assets/images/project_web_practice_1792649971742.jpg",
     githubUrl: "https://github.com/balunadupuru/web-dev-practice"
   }
 ];
